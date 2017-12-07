@@ -10,3 +10,8 @@
 05/29/2017  12:27 AM                 0 readme.txt
                3 File(s)            875 bytes
                2 Dir(s)  20,526,493,696 bytes free
+
+
+We are add new line to validate the the remote connection name when we are  downloading the two repo in same local repo .s
+
+
